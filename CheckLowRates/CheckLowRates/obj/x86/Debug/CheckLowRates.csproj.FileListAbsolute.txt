@@ -1,0 +1,8 @@
+C:\Users\EAHSCS\AppData\Local\Temporary Projects\Chapter 3\bin\Debug\Chapter 3.exe
+C:\Users\EAHSCS\AppData\Local\Temporary Projects\Chapter 3\bin\Debug\Chapter 3.pdb
+C:\Users\EAHSCS\AppData\Local\Temporary Projects\Chapter 3\obj\x86\Debug\Chapter 3.exe
+C:\Users\EAHSCS\AppData\Local\Temporary Projects\Chapter 3\obj\x86\Debug\Chapter 3.pdb
+C:\Users\EAHSCS\documents\visual studio 2010\Projects\CheckLowRates\CheckLowRates\bin\Debug\CheckLowRates.exe
+C:\Users\EAHSCS\documents\visual studio 2010\Projects\CheckLowRates\CheckLowRates\bin\Debug\CheckLowRates.pdb
+C:\Users\EAHSCS\documents\visual studio 2010\Projects\CheckLowRates\CheckLowRates\obj\x86\Debug\CheckLowRates.exe
+C:\Users\EAHSCS\documents\visual studio 2010\Projects\CheckLowRates\CheckLowRates\obj\x86\Debug\CheckLowRates.pdb

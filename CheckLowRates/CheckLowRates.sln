@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckLowRates", "CheckLowRates\CheckLowRates.csproj", "{CE54B847-C671-4176-BE99-E1416E9DF7E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckLowAndHighRates", "CheckLowAndHighRates\CheckLowAndHighRates.csproj", "{A2235918-DA4F-41DF-9955-3CCDDD3D5DFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnsureValidPayRates", "EnsureValidPayRates\EnsureValidPayRates.csproj", "{0EA94B7E-A37E-4B5C-855E-2EDD9EF989F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE54B847-C671-4176-BE99-E1416E9DF7E6}.Debug|x86.ActiveCfg = Debug|x86
+		{CE54B847-C671-4176-BE99-E1416E9DF7E6}.Debug|x86.Build.0 = Debug|x86
+		{CE54B847-C671-4176-BE99-E1416E9DF7E6}.Release|x86.ActiveCfg = Release|x86
+		{CE54B847-C671-4176-BE99-E1416E9DF7E6}.Release|x86.Build.0 = Release|x86
+		{A2235918-DA4F-41DF-9955-3CCDDD3D5DFF}.Debug|x86.ActiveCfg = Debug|x86
+		{A2235918-DA4F-41DF-9955-3CCDDD3D5DFF}.Debug|x86.Build.0 = Debug|x86
+		{A2235918-DA4F-41DF-9955-3CCDDD3D5DFF}.Release|x86.ActiveCfg = Release|x86
+		{A2235918-DA4F-41DF-9955-3CCDDD3D5DFF}.Release|x86.Build.0 = Release|x86
+		{0EA94B7E-A37E-4B5C-855E-2EDD9EF989F0}.Debug|x86.ActiveCfg = Debug|x86
+		{0EA94B7E-A37E-4B5C-855E-2EDD9EF989F0}.Debug|x86.Build.0 = Debug|x86
+		{0EA94B7E-A37E-4B5C-855E-2EDD9EF989F0}.Release|x86.ActiveCfg = Release|x86
+		{0EA94B7E-A37E-4B5C-855E-2EDD9EF989F0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

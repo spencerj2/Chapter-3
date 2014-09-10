@@ -1,0 +1,4 @@
+C:\Users\EAHSCS\documents\visual studio 2010\Projects\CheckLowRates\EnsureValidPayRates\bin\Debug\EnsureValidPayRates.exe
+C:\Users\EAHSCS\documents\visual studio 2010\Projects\CheckLowRates\EnsureValidPayRates\bin\Debug\EnsureValidPayRates.pdb
+C:\Users\EAHSCS\documents\visual studio 2010\Projects\CheckLowRates\EnsureValidPayRates\obj\x86\Debug\EnsureValidPayRates.exe
+C:\Users\EAHSCS\documents\visual studio 2010\Projects\CheckLowRates\EnsureValidPayRates\obj\x86\Debug\EnsureValidPayRates.pdb
