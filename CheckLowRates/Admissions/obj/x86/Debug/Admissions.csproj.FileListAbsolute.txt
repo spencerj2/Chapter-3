@@ -1,0 +1,4 @@
+C:\Users\EAHSCS\Documents\GitHub\Chapter-3\CheckLowRates\Admissions\bin\Debug\Admissions.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter-3\CheckLowRates\Admissions\bin\Debug\Admissions.pdb
+C:\Users\EAHSCS\Documents\GitHub\Chapter-3\CheckLowRates\Admissions\obj\x86\Debug\Admissions.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter-3\CheckLowRates\Admissions\obj\x86\Debug\Admissions.pdb

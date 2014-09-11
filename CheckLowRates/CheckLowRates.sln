@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckLowAndHighRates", "Che
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnsureValidPayRates", "EnsureValidPayRates\EnsureValidPayRates.csproj", "{0EA94B7E-A37E-4B5C-855E-2EDD9EF989F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Furniture", "Furniture\Furniture.csproj", "{46609254-BE62-479B-9983-24E4E5C96BB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admissions", "Admissions\Admissions.csproj", "{382726D4-729A-4816-AEE7-FFEB412DAEE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payroll", "payroll\Payroll.csproj", "{B3627D7B-F7CA-4FBB-9EDD-AF5899C9F083}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,6 +31,18 @@ Global
 		{0EA94B7E-A37E-4B5C-855E-2EDD9EF989F0}.Debug|x86.Build.0 = Debug|x86
 		{0EA94B7E-A37E-4B5C-855E-2EDD9EF989F0}.Release|x86.ActiveCfg = Release|x86
 		{0EA94B7E-A37E-4B5C-855E-2EDD9EF989F0}.Release|x86.Build.0 = Release|x86
+		{46609254-BE62-479B-9983-24E4E5C96BB1}.Debug|x86.ActiveCfg = Debug|x86
+		{46609254-BE62-479B-9983-24E4E5C96BB1}.Debug|x86.Build.0 = Debug|x86
+		{46609254-BE62-479B-9983-24E4E5C96BB1}.Release|x86.ActiveCfg = Release|x86
+		{46609254-BE62-479B-9983-24E4E5C96BB1}.Release|x86.Build.0 = Release|x86
+		{382726D4-729A-4816-AEE7-FFEB412DAEE2}.Debug|x86.ActiveCfg = Debug|x86
+		{382726D4-729A-4816-AEE7-FFEB412DAEE2}.Debug|x86.Build.0 = Debug|x86
+		{382726D4-729A-4816-AEE7-FFEB412DAEE2}.Release|x86.ActiveCfg = Release|x86
+		{382726D4-729A-4816-AEE7-FFEB412DAEE2}.Release|x86.Build.0 = Release|x86
+		{B3627D7B-F7CA-4FBB-9EDD-AF5899C9F083}.Debug|x86.ActiveCfg = Debug|x86
+		{B3627D7B-F7CA-4FBB-9EDD-AF5899C9F083}.Debug|x86.Build.0 = Debug|x86
+		{B3627D7B-F7CA-4FBB-9EDD-AF5899C9F083}.Release|x86.ActiveCfg = Release|x86
+		{B3627D7B-F7CA-4FBB-9EDD-AF5899C9F083}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

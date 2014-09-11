@@ -1,0 +1,4 @@
+C:\Users\EAHSCS\Documents\GitHub\Chapter-3\CheckLowRates\payroll\bin\Debug\payroll.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter-3\CheckLowRates\payroll\bin\Debug\payroll.pdb
+C:\Users\EAHSCS\Documents\GitHub\Chapter-3\CheckLowRates\payroll\obj\x86\Debug\payroll.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter-3\CheckLowRates\payroll\obj\x86\Debug\payroll.pdb

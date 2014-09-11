@@ -2,3 +2,7 @@ C:\Users\EAHSCS\documents\visual studio 2010\Projects\CheckLowRates\CheckLowAndH
 C:\Users\EAHSCS\documents\visual studio 2010\Projects\CheckLowRates\CheckLowAndHighRates\bin\Debug\CheckLowAndHighRates.pdb
 C:\Users\EAHSCS\documents\visual studio 2010\Projects\CheckLowRates\CheckLowAndHighRates\obj\x86\Debug\CheckLowAndHighRates.exe
 C:\Users\EAHSCS\documents\visual studio 2010\Projects\CheckLowRates\CheckLowAndHighRates\obj\x86\Debug\CheckLowAndHighRates.pdb
+C:\Users\EAHSCS\Documents\GitHub\Chapter-3\CheckLowRates\CheckLowAndHighRates\bin\Debug\CheckLowAndHighRates.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter-3\CheckLowRates\CheckLowAndHighRates\bin\Debug\CheckLowAndHighRates.pdb
+C:\Users\EAHSCS\Documents\GitHub\Chapter-3\CheckLowRates\CheckLowAndHighRates\obj\x86\Debug\CheckLowAndHighRates.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter-3\CheckLowRates\CheckLowAndHighRates\obj\x86\Debug\CheckLowAndHighRates.pdb

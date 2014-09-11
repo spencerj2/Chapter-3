@@ -2,3 +2,7 @@ C:\Users\EAHSCS\documents\visual studio 2010\Projects\CheckLowRates\EnsureValidP
 C:\Users\EAHSCS\documents\visual studio 2010\Projects\CheckLowRates\EnsureValidPayRates\bin\Debug\EnsureValidPayRates.pdb
 C:\Users\EAHSCS\documents\visual studio 2010\Projects\CheckLowRates\EnsureValidPayRates\obj\x86\Debug\EnsureValidPayRates.exe
 C:\Users\EAHSCS\documents\visual studio 2010\Projects\CheckLowRates\EnsureValidPayRates\obj\x86\Debug\EnsureValidPayRates.pdb
+C:\Users\EAHSCS\Documents\GitHub\Chapter-3\CheckLowRates\EnsureValidPayRates\obj\x86\Debug\EnsureValidPayRates.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter-3\CheckLowRates\EnsureValidPayRates\obj\x86\Debug\EnsureValidPayRates.pdb
+C:\Users\EAHSCS\Documents\GitHub\Chapter-3\CheckLowRates\EnsureValidPayRates\bin\Debug\EnsureValidPayRates.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter-3\CheckLowRates\EnsureValidPayRates\bin\Debug\EnsureValidPayRates.pdb

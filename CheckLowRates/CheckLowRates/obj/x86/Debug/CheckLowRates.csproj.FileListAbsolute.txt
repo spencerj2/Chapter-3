@@ -6,3 +6,7 @@ C:\Users\EAHSCS\documents\visual studio 2010\Projects\CheckLowRates\CheckLowRate
 C:\Users\EAHSCS\documents\visual studio 2010\Projects\CheckLowRates\CheckLowRates\bin\Debug\CheckLowRates.pdb
 C:\Users\EAHSCS\documents\visual studio 2010\Projects\CheckLowRates\CheckLowRates\obj\x86\Debug\CheckLowRates.exe
 C:\Users\EAHSCS\documents\visual studio 2010\Projects\CheckLowRates\CheckLowRates\obj\x86\Debug\CheckLowRates.pdb
+C:\Users\EAHSCS\Documents\GitHub\Chapter-3\CheckLowRates\CheckLowRates\bin\Debug\CheckLowRates.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter-3\CheckLowRates\CheckLowRates\bin\Debug\CheckLowRates.pdb
+C:\Users\EAHSCS\Documents\GitHub\Chapter-3\CheckLowRates\CheckLowRates\obj\x86\Debug\CheckLowRates.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter-3\CheckLowRates\CheckLowRates\obj\x86\Debug\CheckLowRates.pdb
